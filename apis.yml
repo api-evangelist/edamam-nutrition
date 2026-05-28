@@ -1,0 +1,32 @@
+aid: edamam-nutrition
+name: Edamam nutrition
+description: "Nutrition Analysis"
+url: https://developer.edamam.com/edamam-docs-nutrition-api
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Food & Drink"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Food And Drink
+  - Public APIs
+apis:
+  - name: Edamam nutrition
+    description: "Nutrition Analysis"
+    humanURL: https://developer.edamam.com/edamam-docs-nutrition-api
+    baseURL: https://developer.edamam.com/edamam-docs-nutrition-api
+    tags:
+      - Food And Drink
+    properties:
+      - type: Documentation
+        url: https://developer.edamam.com/edamam-docs-nutrition-api
+common:
+  - type: Website
+    url: https://developer.edamam.com/edamam-docs-nutrition-api
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
